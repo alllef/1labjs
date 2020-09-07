@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0070d485-64fc-4042-8916-ca82130ec862" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1h9RSGDmL0qrOtuJnMLbhF7jZ26" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\alekz29\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0070d485-64fc-4042-8916-ca82130ec862" name="Default Changelist" comment="" />
+      <created>1599421319642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599421319642</updated>
+      <workItem from="1599421320696" duration="1155000" />
+      <workItem from="1599473280558" duration="389000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="933" y="154" key="FileChooserDialogImpl" timestamp="1599473475029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="933" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599473475029" />
+    <state x="280" y="112" key="Vcs.Push.Dialog.v2" timestamp="1599473665917">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="280" y="112" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1599473665917" />
+    <state x="983" y="203" key="svn.repositoryBrowser" timestamp="1599473413797">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="983" y="203" key="svn.repositoryBrowser/0.0.1536.824@0.0.1536.824" timestamp="1599473413797" />
+    <state x="982" y="186" key="svn4idea.import.options" timestamp="1599473409746">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="982" y="186" key="svn4idea.import.options/0.0.1536.824@0.0.1536.824" timestamp="1599473409746" />
+  </component>
+</project>
